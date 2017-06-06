@@ -1,6 +1,8 @@
 # arched-twin-bed
 Design for a twin bed with an arched headboard and footboard
 
+![SketchUp Screenshot](arched-twin-bed.png)
+
 ## Parts
 
 |Part|Count|Dimensions|
