@@ -15,6 +15,10 @@ Design for a twin bed with an arched headboard and footboard
 |Headboard Stiles|5|1/2" x 6" x 24"
 |Footboard Legs|2|2 1/2" x 3 1/2" x 25"
 |Footboard Stiles|5|1/2" x 6" x 15"
+|[Mortise Bedlocks](http://www.leevalley.com/us/Hardware/page.aspx?p=67916&cat=3,40842,43730&ap=1)|2 pair|100mm
+|#6 Flathead Wood Screws|24|2"
+|Aluminum Angle|2|2" x 2" x 6'
+|#6 Flathead Wood Screws|14|1"
 
 ## Materials
 |Length|Thickness|Width|Board Feet|Parts|
